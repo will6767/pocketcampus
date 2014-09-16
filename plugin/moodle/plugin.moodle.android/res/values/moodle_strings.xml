@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="moodle_plugin_title">Moodle</string>
+    
+    <string name="moodle_courses_view_title">List of enrolled Moodle Courses</string>
+    <string name="moodle_events_view_title">Current Moodle Events</string>
+        
+    <string name="moodle_string_logout">Logout</string>
+    <string name="moodle_string_events">Events</string>
+    
+    <string name="moodle_string_courses">Courses</string>
+    <string name="moodle_string_no_courses">No courses</string>
+    <string name="moodle_string_downloaded">Downloaded</string>
+    <string name="moodle_string_nothingtodisplay">Nothing to display</string>
+    <string name="moodle_string_xfiles">%d file(s)</string>
+    
+    <string name="moodle_filemenu_open">Open</string>
+    <string name="moodle_filemenu_share">Share</string>
+    <string name="moodle_filemenu_redownload">Download again</string>
+    <string name="moodle_filemenu_delete">Delete</string>
+    <string name="moodle_filemenu_download">Download</string>
+    <string name="moodle_filemenu_print">Print</string>
+    
+    <string name="moodle_error_moodle_down">PocketCampus tried to connect to Moodle servers, but they seem down.</string>
+    <string name="moodle_connection_error_happened">We cannot fetch Moodle data right now, because you are not connected to the Internet.</string>
+    <string name="moodle_file_downloaded">File successfully downloaded.</string>
+    <string name="moodle_file_downloading">Downloading file... Please wait.</string>
+
+    <string name="moodle_no_app_to_handle_filetype">Could not find any application to open this file.</string>
+
+    <string name="moodle_session_timed_out">Your session has timed out. Attempting to reauthenticate. Please wait.</string>
+        
+</resources>
