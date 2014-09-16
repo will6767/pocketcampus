@@ -1,0 +1,93 @@
+// Created by Loïc Gardiol on 01.03.12.
+
+//////////////////////////////////////////
+// Common
+//////////////////////////////////////////
+
+"PluginName" = "Transports";
+"PlatformShort" = "voie";
+"Need2StationsClickPlusToAdd" = "Au minimum deux stations sont nécessaires pour afficher les horaires.\n\nTouchez le + pour ajouter une station.";
+
+//////////////////////////////////////////
+// TransportNextDeparturesViewController
+//////////////////////////////////////////
+
+"From:" = "De:";
+"LoadingDefaultStations..." = "Chargement des stations\npar défaut...";
+"locating..." = "localisation...";
+"SearchingNearestStation" = "Recherche de votre\nstation la plus proche";
+"ImpossibleLocateUserDenied" = "Impossible de trouver la station la plus proche.\n\nAvez-vous refusé l'accès à la localisation ? Si oui, vous pouvez authoriser \"EPFL\" en allant dans:\n\nRéglages > Confidentialité > Service de localisation\n\nVous pouvez également choisir la station de départ manuellement.";
+"ImpossibleLocateUnknown" = "Désolé, votre position n'a pas\npu être déterminée.\n\nEssayez de rafraîchir, ou sélectionnez une station de départ manuellement.";
+
+//Accessiblity
+"NearestStationButton" = "Station la plus proche";
+"SelectsNearestStationAsDeparture" = "Sélectionne automatiquement votre station la plus proche comme point de départ.";
+"ShowsDepartureSelectionScreen" = "Affiche l'écran de sélection de la station de départ.";
+"ShowsHelpForTransport" = "Affiche l'aide pour Transports.";
+"ShowsScreenToSearchForAStation" = "Affiche l'écran pour chercher une station.";
+"ManageMyStations" = "Gérer mes stations";
+"ShowsScreenThatListsMyStationsToManageThem" = "Affiche l'écran qui liste mes stations et permet de les gérer.";
+
+
+//////////////////////////////////////////
+// TransportNextDeparturesCell
+//////////////////////////////////////////
+
+//Accessibility
+"NextDeparturesFromToWithFormat" = "Prochains départs de %@ vers %@: ";
+"lineWithFormat" = " ligne '%@': ";
+"platformWithFormat" = " voie %@";
+"LeftAlready" = "Déjà parti";
+"ShowsAllPossibilitiesFromToWithFormat" = "Affiche tous les trajets de %@ vers %@";
+
+//////////////////////////////////////////
+// TransportDepartureSelectionViewController
+//////////////////////////////////////////
+
+"DepartureStation" = "Station de départ";
+"Automatic" = "Automatique";
+"NearestStation" = "La plus proche des stations ci-dessous";
+"AllowPocketCampusLocationToUserAutomaticDepartureFeature" = "Pour pouvoir activer cette fonctionalité, authorisez \"EPFL\" dans Réglages > Confidentialité > Service de localisation";
+"ChooseManually" = "Choisir manuellement";
+
+//////////////////////////////////////////
+// TransportStationsManagerViewController
+//////////////////////////////////////////
+
+"MyStations" = "Mes stations";
+"ResetToDefaultStations" = "Stations par défaut...";
+"Reset" = "Réinitialiser";
+"ResetToDefaultStationsExplanations" = "Vos stations seront remplacées par les stations par défaut:\nEPFL et Lausanne-Flon.";
+
+//////////////////////////////////////////
+// TransportAddStationViewController
+//////////////////////////////////////////
+
+"AddStation" = "Ajouter une station";
+"AddStationSearchFieldPlaceholder" = "Gare, arrêt de bus, métro, ...";
+"SearchStationNoResult" = "Aucun résultat";
+"alreadyInYourStations" = "déjà dans vos stations";
+
+//////////////////////////////////////////
+//TransportHelpViewController
+//////////////////////////////////////////
+
+"TransportHelp" = "Aide Transports";
+
+//////////////////////////////////////////
+//TransportTripsListViewController
+//////////////////////////////////////////
+
+"Trips" = "Trajets";
+
+//////////////////////////////////////////
+// TransportTripCell
+//////////////////////////////////////////
+
+//Accessibility
+"DepartureTimeWithFormat" = "Heure de départ: %@, ";
+"arrivalTimeWithFormat" = "heure d'arrivée: %@, ";
+"durationWithFormat" = "durée: %@, ";
+"numberOfChangesWithFormat" = "nombre de changements: %@,  ";
+"startsWithLineWithFormat" = "commence avec la ligne '%@'.";
+"ShowsDetailsForThisTrip" = "Affiche les détails de ce trajet.";

@@ -1,0 +1,22 @@
+// Created by Loïc Gardiol on 01.03.12.
+
+"PluginName" = "Camipro";
+"CamiproBalance" = "Solde Camipro";
+"TransactionsHistory" = "Historique";
+"ReloadCard" = "Recharger la carte";
+"ReloadInstructions" = "Recharger la carte";
+"Statistics" = "Statistiques";
+"ReloadInstructionsSendMailExplanations" = "Voulez-vous recevoir les instructions de recharge de votre carte Camipro par email (adresse EPFL) ?";
+"Send" = "Envoyer";
+"Sending..." = "Envoi en cours...";
+"Sent" = "Envoyé";
+"SessionExpiredPleaseRefresh" = "Votre session a expiré. Rafraîchissez et essayez à nouveau.";
+"StatsWithFormat" = "30 derniers jours cumulés\nCHF %.2lf\n\n90 derniers jours cumulés\nCHF %.2lf\n\nMoyenne sur 3 mois\nCHF %.2lf / mois";
+"CamiproDown" = "Désolé, les serveurs de Camipro semblent inaccessibles. Réessayez plus tard.";
+"LastUpdate" = "Dernière m.à.j.";
+
+//Accessibility
+
+"CamiproBalanceWithFormat" = "Solde de la carte Camipro: %@";
+"CamiproTransactionDescriptionWithFormat" = "Transaction. Lieu: '%@', Date: %@, Montant: %@";
+"AllowsToReceiveByEmailBankingInformationToReloadCard" = "Permet de recevoir par email des information bancaires pour recharger la carte.";

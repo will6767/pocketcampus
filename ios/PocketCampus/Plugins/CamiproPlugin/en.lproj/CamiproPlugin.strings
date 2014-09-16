@@ -1,0 +1,22 @@
+// Created by Loïc Gardiol on 01.03.12.
+
+"PluginName" = "Camipro";
+"CamiproBalance" = "Camipro balance";
+"TransactionsHistory" = "History";
+"ReloadCard" = "Reload card";
+"ReloadInstructions" = "Reload the card";
+"Statistics" = "Statistics";
+"ReloadInstructionsSendMailExplanations" = "Send reload instructions (banking information) to your default EPFL email address ?";
+"Send" = "Send";
+"Sending..." = "Sending...";
+"Sent" = "Sent";
+"SessionExpiredPleaseRefresh" = "Your session has expired. Please refresh and try again.";
+"StatsWithFormat" = "Last 30 days expenses\nCHF %.2lf\n\nLast 90 days expenses\nCHF %.2lf\n\nAverage over 3 months\nCHF %.2lf / month";
+"CamiproDown" = "Sorry, Camipro servers seem to be down. Please try again later.";
+"LastUpdate" = "Last update";
+
+//Accessibility
+
+"CamiproBalanceWithFormat" = "Camipro card balance: %@";
+"CamiproTransactionDescriptionWithFormat" = "Transaction. Location: '%@', Date: %@, Amount: %@";
+"AllowsToReceiveByEmailBankingInformationToReloadCard" = "Allows to receive by email banking information to reload card.";

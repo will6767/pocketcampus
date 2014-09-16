@@ -1,0 +1,50 @@
+
+"PluginName" = "Moodle";
+"MyCourses" = "My courses";
+"MoodleDown" = "Sorry, Moodle servers are down.\nPlease try again later.";
+"MoodleNoCourse" = "You do not seem to be registered\nin any Moodle course.";
+"MoodleNoFavorites" = "No favorites\nTap the star in the document view to add a favorite";
+"MoodleEmptyCourse" = "No document";
+"MoodleCourses" = "Courses";
+"MoodleWeek" = "Week";
+"MoodleAllWeeks" = "All weeks";
+"MoodleCurrentWeek" = "Current week";
+"Saved" = "saved ";
+"LoadingCourseList" = "Loading course list...";
+"LoadingCourse" = "Loading course...";
+"ErrorWhileDownloadingFile" = "Sorry, an error occured while downloading the file.\n\nCheck your internet connection.";
+"FileCouldNotBeDisplayedTryOpenIn" = "This file cannot be displayed.\nTry the action button.";
+"Sorry" = "Sorry";
+"NoActionForThisFile" = "No action is available for this file.";
+"DownloadingFile" = "Downloading file...";
+"DeleteFileFromCacheQuestion" = "Delete file from local storage ?\nYou will have to download it again to read it.";
+"ImpossibleDeleteFile" = "Sorry, an error occured while deleting file.";
+"SearchCourse" = "Search course";
+
+//MoodleSettingsViewController
+"MoodleSettings" = "Moodle settings";
+"KeepDocsPosition" = "Restore reading position";
+"KeepDocsPositionExplanation" = "When enabled, documents automatically open where you leave them off.";
+"DeleteAllDownloadedDocuments" = "Delete all downloaded documents";
+"DownloadedDocumentsCurrentlyUsingBytesWithFormat" = "Downloaded documents are currently using %@ of space.";
+"Computing" = "Calculating";
+"NoDownloadedDocuments" = "No downloaded documents.";
+"AllDocsWillBeDeletedExplanation" = "All documents of all courses will be deleted.\nYou will need to download them again to read them.";
+"DeleteAll" = "Delete all";
+
+//MoodleFolderViewController
+"MoodleEmptyFolder" = "Empty folder";
+
+//MoodleResourceCell
+"FolderNbElementsWithFormat" = "Folder (%d elem.)";
+
+//Accessibility
+"ShowsDocumentsForThisCourse" = "Shows documents for this course.";
+"DocumentDescriptionWithFormat" = "%@, '%@' file, downloaded: %@";
+"FolderDescriptionWithFormat" = "%@, folder containing %d files";
+"LinkDescriptionWithFormat" = "%@, external link";
+"AddDocumentToFavorites" = "Add this document to favorites";
+"RemoveDocumentFromFavorites" = "Remove this document from favorites";
+"AddLinkToFavorites" = "Add this link to favorites";
+"RemoveLinkFromFavorites" = "Remove this link from favorites";
+"DeleteDocumentFromLocalStorage" = "Delete this document from local storage";

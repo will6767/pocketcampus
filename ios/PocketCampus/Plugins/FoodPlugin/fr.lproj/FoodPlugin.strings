@@ -1,0 +1,34 @@
+// Created by Loïc Gardiol on 01.03.12.
+
+"PluginName" = "Restaurants";
+"MenusTableViewSectionName" = "Menus";
+"LoadingMenus" = "Chargement des menus";
+"NoMealsToday" = "Aucun menu aujourd'hui";
+"NoMealsWeekend" = "Aucun menu pendant le weekend.";
+"MenusForTodayWithFormat" = "Menus du jour – %@";
+"Map" = "Plan";
+"ShowOnMap" = "Voir sur le Plan";
+"NoVote" = "Aucun vote";
+"VoteNameSingular" = "vote";
+"VoteNamePlural" = "votes";
+"VoteVerb" = "voter";
+"RatingSendingError" = "Désolé, une erreur est survenue. Veuillez réessayer.";
+"RatingTooEarly" = "Désolé, il est trop tôt pour voter.";
+"RatingAlreadyDone" = "Vous ne pouvez voter qu'une fois par jour";
+"satisfaction" = "satisfaction";
+"Rate" = "Noter";
+"rating" = "avis";
+"ratings" = "avis";
+"NoRating" = "Aucun avis";
+"RatingStatusReadyText" = "Avez-vous aimé ce repas ?";
+"RatingStatusRatedText" = "Merci !";
+"UnknownPrice" = "Prix\ninconnu";
+
+
+/* Accessiblity */
+
+"ShowsMenuForThisRestaurant" = "Affiche le menu de ce restaurant";
+"AddRestaurantToFavorites" = "Ajouter ce restaurant aux favoris";
+"RemoveRestaurantFromFavorites" = "Enlever ce restaurant des favoris";
+"ShowsRestaurantOnMap" = "Affiche ce restaurant sur le plan";
+"MealWithFormatDescriptionAndPrice" = "%@.\nPrix: %@";
